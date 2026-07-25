@@ -5,3 +5,5 @@ data/
 # 쥬피터 노트북 찌꺼기 파일 무시
 .ipynb_checkpoints/
 __pycache__/
+
+.vscode/
