@@ -1,0 +1,7 @@
+# 데이터 파일 무시 (절대 안 올라가게 막기)
+data/
+*.csv
+
+# 쥬피터 노트북 찌꺼기 파일 무시
+.ipynb_checkpoints/
+__pycache__/
